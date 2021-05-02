@@ -1,3 +1,4 @@
+// Done by Amandeep Singh.
 function print_format(lst){
     // 'print_format' outputs the elements in the same way shown in the prompt.
     var format = "";
@@ -101,6 +102,6 @@ else{
         print_format(final);
     }
     else{
-        console.log("Error: You entered a non-integer argument");
+        console.log("Error: You entered a non-integer argument.");
     }
 }
